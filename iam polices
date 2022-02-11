@@ -1,0 +1,5 @@
++ IAM Policy
+
++ Policies are nothing but set of specific permissions that are assigned to users or roles.
++ Policies can be attached to an user or role
++ 0 comments on commit cba0a5d
